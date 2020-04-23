@@ -54,7 +54,7 @@ export default class App extends Component<AppProps, AppState> {
               </Grid.Column>
             </Grid.Row>
             <Grid.Column width={16} textAlign={"center" }  >
-              <div className="app-footer"><footer id='footer-content'>©2020-2025, Digital Albums All Rights reserved</footer></div>
+              <div className="app-footer"><footer id='footer-content'>©2020-2025, Digital Albums All Rights reserved.</footer></div>
             </Grid.Column>
           </Grid>
         </Segment>
