@@ -10,13 +10,6 @@ This application will allow creating/removing/updating/fetching Images. Each ite
 You might also store an id of a user who created a image.
 
 
-# Functions to be implemented
-
-To implement this project, you need to implement the following functions and configure them in the `serverless.yml` file:
-
-* `Auth` - this function should implement a custom authorizer for API Gateway that should be added to all other functions.
-
-* `GetTodos` - should return all Images for a current user. A user id can be extracted from a JWT token that is sent by the frontend
 
 # Frontend
 
@@ -65,4 +58,4 @@ npm install
 npm run start
 ```
 
-This should start a development server with the React application that will interact with the serverless TODO application.
+This should start a development server with the React application that will interact with the serverless Digital Album application.
