@@ -1,10 +1,13 @@
 
+![Image of Yaktocat](https://lh3.googleusercontent.com/proxy/F00oSzJ1-SzTZ8Kmy5RIyJX84RwWPmXTknf6rm57OUU75cwm_OClKlezR1VWGEdf6JO2pC9MACI2wLEjxiRh-WEGXrf-btm1hgRnnwLP5XcBwMdx2gCdXQh3)
+
+### Digital Album
 # Functionality of the application
 
 This application will allow creating/removing/updating/fetching Images. Each item can optionally have an attachment image. Each user only has access to albums that he/she has uploaded.
 
 
-You might also store an id of a user who created a TODO item.
+You might also store an id of a user who created a image.
 
 
 # Functions to be implemented
